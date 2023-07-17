@@ -1,4 +1,14 @@
 {
-  "partner": "QA85QN900BKXXD",
-  "password": "Matercar"
+  "domain": "matercars.com",
+  "password": "MaterCars",
+  "Playlist_IDs": [
+    "37i9dQZF1DX4sWSpwq3LiO",
+    "37i9dQZF1DWZeKCadgRdKQ",
+    "37i9dQZF1DX9sIqqvKsjG8"
+  ],
+  "Artists_IDs": [
+    "5OZXWMwDhlYBRvoOfcX0sk",
+    "5LcNPa8f8bRmZqELgoRFkN",
+    "28DdkLhrzQNizZ0ExQpyku"
+  ]
 }
