@@ -1,11 +1,12 @@
-#SPOTIFY CREATE UNLIMIED ACCOUNT WITH/OUT VPN (BETA VERSION)
+#SPOTIFY CREATE UNLIMIED ACCOUNT
+![image](https://github.com/Archereign/spotify/assets/138429821/c8409551-593a-4ddc-9b1d-cc8b262969ca)
 
-apt update && apt upgrade
-pkg install git
-pkg install python
-git clone https://github.com/Archereign/spotify
-cd spotify
-python main.py
+-apt update && apt upgrade
+-pkg install git
+-pkg install python
+-git clone https://github.com/Archereign/spotify
+-cd spotify
+-python main.py
 
 #Note:
 
