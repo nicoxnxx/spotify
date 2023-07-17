@@ -1,6 +1,7 @@
 #SPOTIFY CREATE UNLIMIED ACCOUNT
 
-![image](https://github.com/Archereign/spotify/assets/138429821/c8409551-593a-4ddc-9b1d-cc8b262969ca)
+![image](https://github.com/Archereign/spotify/assets/138429821/f2ca1ed7-fa6a-4236-a552-fbfe06e2ddb4)
+![image](https://github.com/Archereign/spotify/assets/138429821/d2506a70-9429-4f2e-bb52-98695ee53b9d)
 
 - apt update && apt upgrade
 - pkg install git
